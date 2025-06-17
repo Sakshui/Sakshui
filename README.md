@@ -5,7 +5,8 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sakshi-acharekar-56707b265)  
-- 📧 sakshi.acharekar@example.com
+- [Email](mailto:sakshiacharekar202@gmail.com)
+
 
 ---
 
