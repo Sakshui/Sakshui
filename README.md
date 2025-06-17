@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Sakshi Acharekar
 
-💻 Full-Stack Java Developer | SDE Intern @Deloitte | Software Engineering Enthusiast 
-🔍 Actively looking for opportunities to contribute as a backend or full-stack developer  
+💻 Full-Stack Java Developer | SDE Intern @Deloitte | Software Engineering Enthusiast  
+🔍 Actively looking for opportunities to contribute as a backend or full-stack developer
+  
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sakshi-acharekar-56707b265)  
