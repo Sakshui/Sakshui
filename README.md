@@ -41,7 +41,7 @@ Committed to continuous improvement and delivering real-world software solutions
 
 **SDE Intern – Deloitte (2025)**  
 - Contributed to resolving backend application issues.
-- Assisted in support documentation and real-time debugging.
+- Assisted in functional documentation and real-time debugging.
 
 ---
 
