@@ -2,7 +2,10 @@
 
 💻 Java Developer | Full-Stack Web Developer | Software Engineering Enthusiast  
 🔍 Actively looking for opportunities to contribute as a backend or full-stack developer  
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/sakshi-acharekar-56707b265)
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/sakshi-acharekar-56707b265)  
+- 📧 sakshi.acharekar@example.com
 
 ---
 
