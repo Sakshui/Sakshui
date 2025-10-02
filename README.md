@@ -48,8 +48,8 @@ Committed to continuous improvement and delivering real-world software solutions
 
 ## 📊 GitHub Stats
 
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshui&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshui&layout=compact&theme=gruvbox)
+<!-- ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshui&show_icons=true&theme=gruvbox) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshui&layout=compact&theme=gruvbox) -->
 
 ---
 
