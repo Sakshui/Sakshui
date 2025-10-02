@@ -41,8 +41,6 @@ Committed to continuous improvement and delivering real-world software solutions
 ## 💻 Internship Experience
 
 **SDE Intern – Deloitte (2025)**  
-- Contributed to resolving backend application issues.
-- Assisted in functional documentation and real-time debugging.
 - Collaborated with development teams to analyze system behaviours and business logic, producing structured functional 
 documentation to streamline development, maintenance, and knowledge transfer.
 - Supported knowledge transfer sessions and created reference materials for new team members, improving onboarding 
