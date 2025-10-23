@@ -50,7 +50,6 @@ into structured Excel tables using Python script, ensuring 100% accuracy and sav
 
 ---
 
-## 📊 GitHub Stats
 
 <!-- ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshui&show_icons=true&theme=gruvbox) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshui&layout=compact&theme=gruvbox) -->
