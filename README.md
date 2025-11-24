@@ -1,13 +1,11 @@
 # Hi there 👋 I'm Sakshi Acharekar
 
-💻 Full-Stack Java Developer | SDE Intern @Deloitte | Software Engineering Enthusiast  
+💻 Full-Stack Java Developer | SDE Intern @ Deloitte | Software Engineering Enthusiast  
 🔍 Actively looking for opportunities to contribute as a backend or full-stack developer
-  
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sakshi-acharekar-56707b265)  
 - [Email](mailto:sakshiacharekar202@gmail.com)
-
 
 ---
 
@@ -41,18 +39,14 @@ Committed to continuous improvement and delivering real-world software solutions
 ## 💻 Internship Experience
 
 **SDE Intern – Deloitte (2025)**  
-- Collaborated with development teams to analyze system behaviours and business logic, producing structured functional 
-documentation to streamline development, maintenance, and knowledge transfer.
-- Supported knowledge transfer sessions and created reference materials for new team members, improving onboarding 
-efficiency. 
-- Reduced turnaround time by programmatically converting network-fetched partner data (projects and qualifications) 
-into structured Excel tables using Python script, ensuring 100% accuracy and saving hours of manual effort.
+- Collaborated with development teams to analyze system behaviours and business logic, producing structured functional documentation to streamline development, maintenance, and knowledge transfer.  
+- Supported knowledge transfer sessions and created reference materials for new team members, improving onboarding efficiency.  
+- Reduced turnaround time by programmatically converting network-fetched partner data (projects and qualifications) into structured Excel tables using a Python script, ensuring 100% accuracy and saving hours of manual effort.
 
 ---
 
-
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshui&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshui&layout=compact&theme=gruvbox) 
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshui&show_icons=true&theme=gruvbox)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshui&layout=compact&theme=gruvbox)
 
 ---
 
