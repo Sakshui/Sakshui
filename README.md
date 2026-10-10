@@ -41,7 +41,6 @@ Committed to continuous improvement and delivering real-world software solutions
 **SDE Intern – Deloitte (2025)**  
 - Collaborated with development teams to analyze system behaviours and business logic, producing structured functional documentation to streamline development, maintenance, and knowledge transfer.  
 - Supported knowledge transfer sessions and created reference materials for new team members, improving onboarding efficiency.  
-- Reduced turnaround time by programmatically converting network-fetched partner data (projects and qualifications) into structured Excel tables using a Python script, ensuring 100% accuracy and saving hours of manual effort.
 
 ---
 
